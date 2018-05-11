@@ -1,4 +1,7 @@
 .DS_Store
 libraries/libraries.iml
 libraries/src/.DS_Store
-
+libraries/src/.idea
+test/test.iml
+test/src/.DS_Store
+test/src/.idea
