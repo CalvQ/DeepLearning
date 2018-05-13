@@ -2,11 +2,6 @@
 libraries/libraries.iml
 libraries/.DS_Store
 libraries/.idea
-libraries/src/.gitkeep
-libraries/res/.gitkeep
-libraries/cpp/.gitkeep
 test/test.iml
 test/.DS_Store
 test/.idea
-test/src/.gitkeep
-test/res/.gitkeep
