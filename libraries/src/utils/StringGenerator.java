@@ -1,3 +1,5 @@
+package utils;
+
 import java.io.*;
 import java.util.HashSet;
 import java.util.Scanner;
